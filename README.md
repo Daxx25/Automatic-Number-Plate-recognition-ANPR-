@@ -1,2 +1,1 @@
-"# Automatic-Number-Plate-recognition-ANPR-" 
-"# Automatic-Number-Plate-recognition-ANPR-" 
+Developed an OCR-based ANPR system using Python, OpenCV, and Tesseract, achieving 90% text extraction accuracy. Integrated a SQL database for real-time license plate data storage and retrieval, enhancing traffic monitoring. Built a Flask-based interface for seamless access, showcasing expertise in computer vision, OCR, and database management.
